@@ -1,2 +1,2 @@
 # optisys-linux-admins
-Repostory setup mainly for all cohorts
+Repository setup mainly for all training cohorts
